@@ -1,0 +1,3 @@
+remote_theme: https://pages-themes.github.io/hacker/
+plugins:
+- jekyll-remote-theme
